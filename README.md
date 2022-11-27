@@ -6,3 +6,6 @@ The task is to understand practically working of Github
 Hello World
 
 From this line onward I an adding new descriptions
+
+
+**I am writting this 2nd updated line for new branch. I have also attached file with this update.**
